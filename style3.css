@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+  
+  body {
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    background: #ffe600;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+  }
+
+  header {
+    background-color: rgb(9, 255, 0);
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+.mail {
+    width:40px;
+}
